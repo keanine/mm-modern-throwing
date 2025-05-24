@@ -1,8 +1,15 @@
-# Majora's Mask: Recompiled Mod Template
+# MM Modern Throwing
 
-This is an example mod for Majora's Mask: Recompiled that can be used as a template for creating mods. It has a basic build system, headers, sample code, and a mod config toml.
+Inspired by the way Breath of the Wild separated the throw and drop actions.
 
-Example code for using the recompui API to build ingame UI can be found in the `ui-example` branch.
+Need to throw a bomb while standing still?
+How about dropping a bomb while running?
+With this mod you simply press A to throw and B to drop!
+This functionality should work with anything Link can pick up.
+
+Thanks to tomtee, this mod now includes UI action prompts for dropping and throwing!
+
+# Majora's Mask: Recompiled Modding Information
 
 ### Writing mods
 See [this document](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg) for an explanation of the modding framework, including how to write function patches and perform interop between different mods.
