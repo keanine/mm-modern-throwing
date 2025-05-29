@@ -9,6 +9,8 @@ This functionality should work with anything Link can pick up.
 
 Thanks to tomtee, this mod now includes UI action prompts for dropping and throwing!
 
+![image](https://github.com/user-attachments/assets/47febad2-a40b-4c28-9f58-bc1977f10264)
+
 # Majora's Mask: Recompiled Modding Information
 
 ### Writing mods
